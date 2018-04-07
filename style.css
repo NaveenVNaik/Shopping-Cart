@@ -1,0 +1,23 @@
+.section {
+	font-family: verdana;
+	line-height: 25px;
+}
+
+.input{
+	width: 250px;
+}
+/*
+.custome{
+	padding-right: 15em; 
+}
+*/
+.custome{
+	display:inline-block;
+	padding-right: 10em; 	
+}
+
+/*.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}*/
